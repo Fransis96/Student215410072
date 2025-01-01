@@ -3,9 +3,13 @@
     "cerita_1":[
       {
         "judul": "Allah Mulai Membuat Segala Sesuatu",
-        "img":"",
-        "content": 
-        {
+        "img":{
+          "img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita1.jpg",
+          "img_2": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita1_paragraf3.jpg",
+          "img_3": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita1_paragraf4.jpg",
+          "img_4": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita1_paragraf5.jpg",
+        },
+        "content": {
           "paragraf_1": "SEGALA sesuatu yang baik datang dari Allah. Ia membuat matahari supaya kita mendapat cahaya pada siang hari, dan bulan dan bintang-bintang supaya kita mendapat cahaya juga pada malam hari. Dan Allah membikin bumi untuk tempat tinggal kita.",
           "paragraf_2": "Tetapi matahari, bulan, bintang-bintang dan bumi bukanlah yang pertama-tama Allah bikin. Tahukah engkau apa yang pertama? Allah pertama membikin makhluk-makhluk seperti diriNya sendiri. Kita tidak dapat melihat makhluk-makhluk ini, sama seperti kita juga tidak dapat melihat Allah. Dalam Alkitab makhluk-makhluk ini disebut malaikat. Allah menjadikan malaikat untuk hidup dengan Dia di surga.",
           "paragraf_3": "Malaikat yang pertama Allah jadikan sangat luar biasa. Ia Putra Allah pertama, dan ia bekerja bersama Bapanya. Ia membantu Allah membikin semua yang lain. Ia membantu Allah membikin matahari, bulan, bintang-bintang dan juga bumi kita.",
@@ -20,9 +24,13 @@
     "cerita_2":[
       {
         "judul": "Taman yang Indah",
-        "img":"",
-        "content": 
-        {
+        "img":{
+          "img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita2.jpg",
+          "img_2": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita2_a.jpg",
+          "img_3": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita2_b.jpg",
+          "img_4": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita2_c.jpg",
+        },
+        "content":{
           "paragraf_1": "LIHATLAH bumi ini! Betapa bagus semuanya! Lihatlah rumput dan pohon itu, bunga dan semua binatang itu. Bisa engkau tunjukkan mana gajah dan singa?",
           "paragraf_2": "Bagaimana terjadinya taman yang indah ini? Nah, marilah kita lihat bagaimana Allah mempersiapkan bumi ini untuk kita.",
           "paragraf_3": "Pertama, Allah membuat rumput menutupi daratan. Dan Ia membuat segala macam tanaman kecil dan semak dan pohon. Semua tumbuhan ini membuat bumi jadi bagus. Tetapi tidak cuma bikin bagus saja. Banyak tanaman ini memberikan bahan makanan kepada kita yang sangat sedap rasanya.",
@@ -37,9 +45,13 @@
     "cerita_3":[
       {
         "judul": "Lelaki dan Perempuan Pertama",
-        "img":"",
-        "content": 
-        {
+        "img":{
+          "img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita3.jpg",
+          "img_2": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita3_a.jpg",
+          "img_3": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita3_b.jpg",
+          "img_4": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita3_c.jpg"
+        },
+        "content":{
           "paragraf_1": "APA yang berbeda dalam gambar ini? Dalam gambar ini ada orang. Mereka adalah lelaki dan perempuan yang pertama. Siapa yang membikin mereka? Allah. Tahukah engkau nama Allah? Namanya Yehuwa. Dan nama lelaki dan perempuan itu adalah Adam dan Hawa.",
           "paragraf_2": "Beginilah caranya Allah Yehuwa menciptakan Adam. Ia mengambil debu dari tanah lalu membuatnya menjadi suatu tubuh yang sempurna, tubuh manusia. Lalu Ia meniup ke lubang hidung manusia, dan Adam hidup.",
           "paragraf_3": "Allah Yehuwa telah menyediakan pekerjaan bagi Adam. Ia menyuruh Adam memberi nama kepada segala macam binatang. Adam telah lama memperhatikan binatang-binatang itu maka ia dapat memberikan nama yang paling bagus untuk mereka semua. Tahukah engkau apa yang dilihatnya?",
@@ -54,7 +66,7 @@
     "cerita_4": [
       {
         "judul": "Mengapa Mereka Kehilangan Tempat Tinggal Mereka",
-        "img":"",
+        "img":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita4.jpg",
         "content": 
         {
           "paragraf_1": "COBA lihat apa yang terjadi. Adam dan Hawa sekarang sedang diusir dari taman indah Eden. Tahukah engkau apa sebabnya?",
@@ -72,7 +84,7 @@
     "cerita_5": [
       {
         "judul": "Hidup Mulai Jadi Susah",
-        "img":"",
+        "img":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita5.jpg",
         "content": 
         {
           "paragraf_1": "DI LUAR taman Eden, Adam dan Hawa mengalami banyak kesusahan. Mereka harus bekerja untuk mencari makanan mereka. Di sekitar mereka tidak lagi terdapat pohon buah-buahan yang menarik, tetapi yang banyak tumbuh adalah semak duri dan rumput duri. Inilah akibatnya karena Adam dan Hawa tidak mentaati Allah dan tidak menjadi teman lagi bagi-Nya.",
@@ -85,6 +97,23 @@
         },
         "kategori": "Rohani",
         "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/hidup-susah/"
+      }
+    ],
+    "cerita_6": [
+      {
+        "judul": "Anak yang Baik, dan yang Jahat",
+        "img": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/cerita6.jpg",
+        "content": 
+        {
+          "paragraf_1": "TENGOKLAH Kain dan Habel sekarang. Mereka sudah menjadi dewasa. Kain menjadi seorang petani. Dia menanam biji-bijian, buah-buahan dan sayur-sayuran.",
+          "paragraf_2": "Habel menjadi gembala domba. Dia senang menjaga anak-anak domba yang masih kecil. Domba-domba itu menjadi besar dan tidak lama kemudian Habel mempunyai sekawanan domba untuk digembalakan.",
+          "paragraf_3": "Pada suatu hari Kain dan Habel membawa hadiah bagi Allah. Kain membawa makanan hasil tanamannya. Dan Habel membawa dombanya yang paling baik. Yehuwa senang dengan Habel dan hadiahnya. Tetapi Dia tidak senang dengan Kain dan hadiahnya. Tahukah kau mengapa demikian?",
+          "paragraf_4": "Bukan saja karena hadiah Habel lebih baik dari hadiah Kain. Tetapi karena Habel adalah orang yang baik. Dia mengasihi Yehuwa dan saudaranya. Tetapi Kain jahat; dia tidak mengasihi saudaranya.",
+          "paragraf_5": "Maka Allah berkata kepada Kain agar dia merobah sikapnya. Tetapi kain tidak mau mendengar. Dia menjadi sangat marah karena Allah lebih menyukai Habel. Maka Kain berkata kepada Habel, ’Mari kita pergi ke ladang.’ Di sana, sewaktu mereka berdua saja, Kain memukul saudaranya Habel. Dia memukulnya begitu keras sehingga Habel mati. Tidakkah mengerikan perbuatan Kain itu?",
+          "paragraf_6": "Meskipun Habel mati, Allah masih mengingatnya. Habel orang baik, dan Yehuwa tidak pernah melupakan orang yang demikian. Jadi suatu waktu nanti Allah akan menghidupkan Habel kembali. Nanti dia tidak perlu mati lagi. Dia akan dapat hidup untuk selama-lamanya di atas bumi ini. Sangat menyenangkan untuk mengenal orang seperti Habel, bukan?",
+          "paragraf_7": "Tetapi Allah tidak senang dengan orang-orang seperti Kain. Jadi, setelah Kain membunuh saudaranya, Allah menghukumnya dengan membuangnya jauh-jauh dari keluarganya. Sewaktu Kain pergi untuk hidup di tempat lain, dia membawa salah seorang dari adik-adik perempuannya, dan menjadi istrinya.",
+          "paragraf_8": "Kemudian Kain dan istrinya mulai mendapat anak-anak. Putra-putra dan putri-putri lainnya dari Adam dan Hawa kawin, dan mereka juga mendapat anak-anak. Tidak lama kemudian banyaklah orang di atas bumi. Mari kita belajar tentang beberapa di antara mereka."
+        }
       }
     ]
   }
