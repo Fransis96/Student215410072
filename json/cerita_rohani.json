@@ -140,5 +140,43 @@
     ],
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/Henokh/"
+  },{
+    "id": "cerita_8",
+    "judul": "Raksasa di atas Bumi",
+    "img":[
+      {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita8.jpg"},
+      {"img_2": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita8_paragraf5&6.jpg"},
+      {"img_3": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita8_paragraf6.jpg"},
+      {"img_4": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita8_paragraf7.jpg"}
+    ],
+    "content":[
+      {"paragraf_1": "COBA bayangkan, ada orang yang datang kepadamu yang tingginya sampai ke langit-langit rumahmu. Pastilah orang itu raksasa! Dulu memang pernah ada raksasa di atas bumi. Alkitab memperlihatkan bahwa mereka adalah keturunan dari malaikat-malaikat di surga. Tetapi bagaimana mungkin?"},
+      {"paragraf_2": "Ingat, Setan malaikat jahat itu tetap sibuk membuat kesukaran. Dia bahkan berusaha agar malaikat-malaikat Allah menjadi jahat. Pada suatu waktu, beberapa di antara malaikat tersebut mulai mengikuti Setan. Mereka tidak lagi melakukan pekerjaan yang Allah tugaskan di surga. Dan mereka turun ke bumi dan menjelma sebagai manusia. Tahukah kau mengapa?"},
+      {"paragraf_3": "Alkitab berkata bahwa hal itu disebabkan oleh karena putra-putra Allah ini melihat wanita-wanita cantik di bumi dan ingin hidup bersama mereka. Jadi mereka datang ke bumi dan kawin dengan wanita-wanita ini. Alkitab berkata bahwa hal ini salah, karena Allah menjadikan malaikat-malaikat untuk hidup di surga."},
+      {"paragraf_4": "Sewaktu malaikat dan istri-istri mereka mendapat anak-anak, bayi-bayi ini agak lain. Boleh jadi pada mulanya kelihatannya tidak begitu berbeda. Tetapi mereka terus bertambah besar, dan semakin kuat, sampai mereka menjadi raksasa-raksasa."},
+      {"paragraf_5": "Raksasa-raksasa ini jahat. Dan karena mereka begitu besar dan kuat, mereka suka mengganggu orang-orang lain. Mereka mencoba memaksa setiap orang berbuat jahat seperti mereka sendiri."},
+      {"paragraf_6": "Henokh telah mati, tetapi ada orang lain di bumi yang sekarang berbuat baik. Orang ini namanya Nuh. Ia selalu berbuat apa yang Allah perintahkan kepadanya."},
+      {"paragraf_7": "Pada satu hari Allah berkata kepada Nuh bahwa waktu sudah tiba bagiNya untuk membinasakan semua orang jahat. Tetapi Allah bermaksud menyelamatkan Nuh, keluarganya dan banyak binatang. Mari kita lihat cara bagaimana Allah melakukan ini."}
+    ],
+    "kategori":"Rohani",
+    "sumber":"https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/raksasa-di-atas-bumi/"
+  },{
+    "id": "cerita_9",
+    "judul":"Nuh Membangun Bahtera",
+    "img":[
+      {"img_1":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita9.jpg"},
+      {"img_2":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita9_paragraf4.jpg"},
+      {"img_3":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita9_paragraf5.jpg"}
+    ],
+    "content":[
+      {"paragraf_1":"NUH mempunyai seorang istri dan tiga putra. Nama-nama putranya adalah Sem, Ham dan Yafet. Dan masing-masing mempunyai seorang istri. Jadi keluarga Nuh terdiri dari delapan orang."},
+      {"paragraf_2":"Sekarang Allah memerintahkan Nuh melakukan sesuatu yang aneh. Dia menyuruhnya membangun sebuah bahtera besar. Bahtera ini besarnya seperti sebuah kapal, tetapi kelihatannya lebih menyerupai sebuah peti yang besar dan panjang. ’Buatlah bertingkat tiga’, kata Allah ’dan buatlah kamar-kamar di dalamnya.’ Kamar-kamar itu untuk Nuh dan keluarganya, binatang-binatang, dan makanan yang akan perlu bagi mereka semua."},
+      {"paragraf_3":"Allah juga memerintahkan Nuh membuat bahtera itu sedemikian rupa sehingga air tidak bisa masuk ke dalam. Allah berkata, ’Aku akan mendatangkan air bah dan membinasakan seluruh dunia. Semua yang di luar bahtera akan mati.’"},
+      {"paragraf_4":"Nuh dan putra-putranya mentaati Yehuwa dan mulai membangun. Tetapi orang-orang lain hanya tertawa saja. Mereka terus berbuat jahat. Tak seorang pun percaya kata-kata Nuh."},
+      {"paragraf_5":"Makan banyak waktu untuk membangun bahtera itu karena cukup besar. Akhirnya setelah bertahun-tahun lamanya, bahtera itu selesai. Sekarang Allah menyuruh Nuh memasukkan dua ekor dari setiap jenis binatang tertentu, jantan dan betina. Tetapi ada juga jenis binatang lain, yang Allah perintahkan kepada Nuh agar dimasukkan sebanyak tujuh ekor. Allah juga menyuruh Nuh memasukkan segala macam jenis unggas. Nuh berbuat persis seperti yang Allah perintahkan."},
+      {"paragraf_6":"Kemudian, Nuh dan keluarganya juga masuk ke dalam bahtera. Lalu Allah menutup pintu bahtera. Nuh dan keluarganya menunggu di dalam bahtera. Coba bayangkan kau ada bersama mereka di dalam bahtera, menunggu. Apakah akan ada air bah seperti yang Allah katakan?"}
+    ],
+    "kategori":"Rohani",
+    "sumber":"https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/bahtera-nuh/"
   }
 ]
