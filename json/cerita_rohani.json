@@ -1,7 +1,7 @@
 
 [
   {
-    "id": "cerita_1",
+    "id": 1,
     "judul": "Allah Mulai Membuat Segala Sesuatu",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita1.jpg"},
@@ -25,7 +25,7 @@
     "kategori":"Rohani",
     "sumber":"https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/kejadian-penciptaan/"
   },{
-    "id": "cerita_2",
+    "id": 2,
     "judul": "Taman yang Indah",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita2.jpg"},
@@ -49,7 +49,7 @@
     "kategori":"Rohani",
     "sumber":"https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/taman-eden/"
   },{
-    "id": "cerita_3",
+    "id": 3,
     "judul": "Lelaki dan Perempuan Pertama",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita3.jpg"},
@@ -73,7 +73,7 @@
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/adam-dan-hawa/"
   },{
-    "id": "cerita_4",
+    "id": 4,
     "judul": "Mengapa Mereka Kehilangan Tempat Tinggal Mereka",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita4.jpg"},
@@ -97,7 +97,7 @@
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/firdaus-hilang/"
   },{
-    "id": "cerita_5",
+    "id": 5,
     "judul": "Hidup Mulai Jadi Susah",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita5.jpg"},
@@ -121,7 +121,7 @@
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/hidup-susah/"
   },{
-    "id": "cerita_6",
+    "id": 6,
     "judul": "Anak yang Baik, dan yang Jahat",
     "img": [
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita6.jpg"},
@@ -145,7 +145,7 @@
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/kain-dan-habel/"
   },{
-    "id": "cerita_7",
+    "id": 7,
     "judul": "Seorang yang Berani",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita7.jpg"},
@@ -169,7 +169,7 @@
     "kategori": "Rohani",
     "sumber": "https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/Henokh/"
   },{
-    "id": "cerita_8",
+    "id": 8,
     "judul": "Raksasa di atas Bumi",
     "img":[
       {"img_1": "https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita8.jpg"},
@@ -193,7 +193,7 @@
     "kategori":"Rohani",
     "sumber":"https://www.jw.org/id/perpustakaan/buku/cerita-alkitab/1/raksasa-di-atas-bumi/"
   },{
-    "id": "cerita_9",
+    "id": 9,
     "judul":"Nuh Membangun Bahtera",
     "img":[
       {"img_1":"https://raw.githubusercontent.com/Fransis96/Project123/main/img/rohani/cerita9.jpg"},
